@@ -1,6 +1,6 @@
 # A/B Testing Analysis: Client Retention Loyalty Program
 
-This repository contains the statistical analysis notebook for evaluating the **Loyalty Points & Public Recognition Program** at Infortrace Consulting. The experiment tests whether introducing a loyalty program (Treatment) causally increases the **90-Day Client Retention Rate** compared to standard onboarding (Control).
+This repository contains the statistical analysis notebook for evaluating the **Loyalty Points & Public Recognition Program**. The experiment tests whether introducing a loyalty program (Treatment) causally increases the **90-Day Client Retention Rate** compared to standard onboarding (Control).
 
 ---
 
