@@ -134,6 +134,6 @@ FINAL BUSINESS DECISION FRAMEWORK
 ==============================================================================
  STATISTICAL DECISION: Reject Null Hypothesis (H0).
  ACTIONABLE RECOMMENDATION: Roll out the Loyalty Points & Recognition Program
-                             to 100% of Infortrace consulting clients.
+                             to 100% of consulting clients.
 ==============================================================================
 ```
